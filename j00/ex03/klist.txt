@@ -1,0 +1,5 @@
+Credentials cache: API:6A3010C8-55F3-4500-9834-1C4892EA11BD
+        Principal: mfaure@42.FR
+
+  Issued                Expires             Flags    Principal
+Aug 29 15:45:49 2016  Sep  5 15:45:41 2016  FPIA   krbtgt/42.FR@42.FR
