@@ -1,1 +1,1 @@
-find . | wc - l | cut -c 8-
+find . | wc - l | sed 's/ //g'
